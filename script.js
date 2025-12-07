@@ -73,7 +73,7 @@ const observer = new IntersectionObserver((entries) => {
 }, observerOptions);
 
 // Observe all interactive elements
-document.querySelectorAll('.project-card, .skill-category').forEach(element => {
+document.querySelectorAll('.project-card, .skill-category, .edu-item, .experience-item').forEach(element => {
     element.style.opacity = '0';
     element.style.transform = 'translateY(30px)';
     element.style.transition = 'opacity 0.6s cubic-bezier(0.4, 0, 0.2, 1), transform 0.6s cubic-bezier(0.4, 0, 0.2, 1)';

@@ -1,0 +1,8 @@
+                    <div class="project-tags">
+                        <span>Python</span>
+                        <span>Flask</span>
+                        <span>Machine Learning</span>
+                        <span>HTML/CSS</span>
+                    </div>
+                    <a href="https://github.com/RAhul-pro-code/Crop-price-prediction-" target="_blank" class="btn btn-secondary">View on GitHub</a>
+                </div>
